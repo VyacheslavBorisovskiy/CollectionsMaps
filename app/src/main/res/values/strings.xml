@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Collections and Maps</string>
+    <string name="tab_collections_label">Collections</string>
+    <string name="tab_maps_label">Maps</string>
+    <string name="hint_operations">Operations</string>
+    <string name="hint_threads">Threads</string>
+    <string name="operations_label_text">Operations</string>
+    <string name="threads_label_text">Threads</string>
+    <string name="ed">placeholder</string>
+    <string name="calculation_button_name_start">Start</string>
+    <string name="calculation_button_name_stop">Stop</string>
+
+    <!-- Labels for recycler view items -->
+    <string name="add_start_arraylist_label">Adding to start in ArrayList: %s ms</string>
+    <string name="add_start_linkedlist_label">Adding to start in LinkedList: %s ms</string>
+    <string name="add_start_copywritelist_label">Adding to start in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="add_middle_arraylist_label">Adding to middle in ArrayList: %s ms</string>
+    <string name="add_middle_linkedlist_label">Adding to middle in LinkedList: %s ms</string>
+    <string name="add_middle_copywritelist_label">Adding to middle in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="add_end_arraylist_label">Adding to end in ArrayList: %s ms</string>
+    <string name="add_end_linkedlist_label">Adding to end in LinkedList: %s ms</string>
+    <string name="add_end_copywritelist_label">Adding to end in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="search_arraylist_label">Search in ArrayList: %s ms</string>
+    <string name="search_linkedlist_label">Search in LinkedList: %s ms</string>
+    <string name="search_copywritelist_label">Search in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="remove_start_arraylist_label">Removing from start in ArrayList: %s ms</string>
+    <string name="remove_start_linkedlist_label">Removing from start in LinkedList: %s ms</string>
+    <string name="remove_start_copywritelist_label">Removing from start in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="remove_middle_arraylist_label">Removing from middle in ArrayList: %s ms</string>
+    <string name="remove_middle_linkedlist_label">Removing from middle in LinkedList: %s ms</string>
+    <string name="remove_middle_copywritelist_label">Removing from middle in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="remove_end_arraylist_label">Removing from end in ArrayList: %s ms</string>
+    <string name="remove_end_linkedlist_label">Removing from end in LinkedList: %s ms</string>
+    <string name="remove_end_copywritelist_label">Removing from end in CopyOnWriteArrayList: %s ms</string>
+
+    <string name="add_new_treemap_label">Adding new to TreeMap: %s ms</string>
+    <string name="add_new_hashmap_label">Adding new to HashMap: %s ms</string>
+
+    <string name="search_treemap_label">Search by key in TreeMap: %s ms</string>
+    <string name="search_hashmap_label">Search by key in HashMap: %s ms</string>
+
+    <string name="remove_treemap_label">Removing in TreeMap: %s ms</string>
+    <string name="remove_hashmap_label">Removing in HashMap: %s ms</string>
+
+    <string name="calculation_start_toast">Calculation started</string>
+    <string name="calculation_stop_toast">Calculation stopped</string>
+
+</resources>
